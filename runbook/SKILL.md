@@ -570,4 +570,10 @@ Main: Synthesizes all feedback
 
 **Remember:** There is no one right way to use Claude Code. Experiment to see what works for you.
 
-Based on tips from Boris Cherny and the Claude Code team at Anthropic.
+---
+
+## Credits
+
+Based on [Boris Cherny's Twitter thread](https://x.com/bcherny/status/1885103675015516287) sharing tips from the Claude Code team at Anthropic.
+
+Boris is the creator of Claude Code.

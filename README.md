@@ -619,7 +619,7 @@ runbook/
 
 ## Credits
 
-Based on the [Twitter thread](https://twitter.com/bcherny) by **Boris Cherny**, creator of Claude Code, sharing tips from the Claude Code team at Anthropic.
+Based on [Boris Cherny's Twitter thread](https://x.com/bcherny/status/1885103675015516287) sharing tips from the Claude Code team at Anthropic. Boris is the creator of Claude Code.
 
 This skill implements all 10 tips:
 
