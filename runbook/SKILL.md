@@ -3,6 +3,13 @@ name: runbook
 description: Claude Code productivity system based on tips from the Claude Code team. Provides workflows for parallel work, plan reviews, CLAUDE.md maintenance, tech debt hunting, auto-fixing, code grilling, elegant refactors, and visual explanations. Use when wanting to work more effectively with Claude Code.
 argument-hint: [command]
 user-invocable: true
+license: MIT
+compatibility: Requires git for worktrees functionality
+metadata:
+  author: potatoman03
+  version: "1.0.0"
+  source: "Boris Cherny's Claude Code tips thread"
+  tags: ["productivity", "workflow", "best-practices", "claude-code"]
 ---
 
 # Runbook: Claude Code Productivity System
