@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# PDFs and documents (source materials)
+*.pdf
+
+# Claude Code local files
+.claude/settings.local.json
+
+# Logs
+*.log
+
+# Dependencies (if any scripts added later)
+node_modules/
+__pycache__/
+*.pyc
+
+# Generated explanations (user-specific)
+runbook/.claude/explanations/
